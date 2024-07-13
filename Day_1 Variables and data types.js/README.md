@@ -1,7 +1,7 @@
 Day 1
 
-I have leant about Var, let and const
-Since var and let are local variables they can be reassigned and used out the scope or can be changed any number of times
+I have leant about Var, let and const <br>
+Since var and let are local variables they can be reassigned and used out the scope or can be changed any number of times<br>
 const is a global decleared so it cant be reassigned and changed once it is decleared
 
 different times of data types
