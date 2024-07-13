@@ -6,11 +6,11 @@ const is a global decleared so it cant be reassigned and changed once it is decl
 
 different times of data types
 
-String
-Number
-Bigint
-Boolean
-Undefined
-Null
-Symbol
+String <br>
+Number <br>
+Bigint <br>
+Boolean <br>
+Undefined <br>
+Null <br>
+Symbol <br>
 Object
