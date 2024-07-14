@@ -9,7 +9,7 @@ console.log(name)
 
 // Activity - 2    Constant Declaration
 
-//  Task-3
+//  Task-3  
 const IsLogged = true;
 console.log(IsLogged)
 
