@@ -6,6 +6,7 @@ const is a global decleared so it cant be reassigned and changed once it is decl
 
 different times of data types
 
+<<<<<<< HEAD
 String <br>
 Number <br>
 Bigint <br>
@@ -14,3 +15,13 @@ Undefined <br>
 Null <br>
 Symbol <br>
 Object
+=======
+String
+Number
+Bigint
+Boolean
+Undefined
+Null
+Symbol
+Object 
+>>>>>>> origin/main
