@@ -12,5 +12,5 @@ Comparision Operators
 
 Logical Operators
 
-&&, ||, !
+&&, ||, !   
 
